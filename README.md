@@ -37,7 +37,8 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="39.77125627139907, -86.15816340140155" zoom="5" prefer-geojson basemap="Stamen_Watercolor">
+<param ve-map center="39.77125627139907, -86.15816340140155" zoom="5" prefer-geojson basemap="Stamen_Watercolor" show labels>
+<param ve-map-layer geojson url="/appalachiaexample.json" title="Appalachia" active> 
 
 ## Multiple viewers
 

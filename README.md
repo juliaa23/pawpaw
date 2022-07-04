@@ -37,8 +37,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="39.77125627139907, -86.15816340140155" zoom="5" prefer-geojson basemap="Stamen_Watercolor" show labels>
-<param ve-map-layer geojson url="/appalachiaexample.json" title="Appalachia" active> 
+<param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
@@ -46,9 +45,8 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="7">
+<param ve-map center="Q36600" zoom="11">
 
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
-
